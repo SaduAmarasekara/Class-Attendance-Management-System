@@ -3,6 +3,6 @@ Our project is titled Class Attendance Management System (CAMS). It is a tool us
 ![Screenshot (278)](https://github.com/user-attachments/assets/e2a71883-7285-4aaf-8c5f-cf7106ada588)
 ![Screenshot (285)](https://github.com/user-attachments/assets/2dff6873-0f51-464b-936d-3a0bc4eaef53)
 ![Screenshot (283)](https://github.com/user-attachments/assets/1e5f02b3-a268-498c-b7d9-c384a61f948e)
-![Screenshot (286)](https://github.com/user-attachments/assets/26733e55-8151-4f9d-b11e-4660b00040a0)
+![Screenshot 2024-11-15 164453](https://github.com/user-attachments/assets/3f621a82-7841-4abf-9a21-bf652d9397f2)
 
 
